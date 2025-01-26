@@ -1,0 +1,6 @@
+[submodule "DecentralizedDen_SmartContracts"]
+	path = DecentralizedDen_SmartContracts
+	url = https://github.com/namankhandelwal1607/DecentralizedDen_SmartContracts
+[submodule "DecentralizedDeb-contracts-Scaler"]
+	path = DecentralizedDeb-contracts-Scaler
+	url = https://github.com/namankhandelwal1607/DecentralizedDeb-contracts-Scaler.git
